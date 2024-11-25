@@ -18,7 +18,7 @@ public class ActionDandD_Frames {
 		WebElement target = obj.findElement(By.id("droppable"));
 		
 		DD.dragAndDrop(Source, target).perform();
-		
+//	fjfjsfj	
 	}
 
 }
